@@ -1,0 +1,88 @@
+BERTALLANFY, L. Teoria geral dos sistemas, Petrópolis, Vozes, 1975.
+MACIEL, J. Elementos de teoria geral de sistemas, Petrópolis, Vozes, 1974.
+SENGE, P, A Quinta disciplina: teoria e pratica da organização de
+aprendizagem, São Paulo, Best-seller, 1990.
+
+EN05XXX - TÓPICOS ESPECIAIS EM SISTEMAS DE INFORMAÇÃO (68 horas-aula)
+Ementa:
+Inovações tecnológicas decorrentes de pesquisas recentes na área de Sistemas
+de Informação. Aplicações específicas nesta área, interessando a um grupo restrito ou
+tendo caráter de temporalidade. Aspectos específicos da área de Sistemas de
+Informação já abordados anteriormente, mas cobertos superficialmente interessando a
+um grupo de alunos e sendo objeto de pesquisa recente.
+Bibliografia:
+Indicação varia com o conteúdo definido.
+
+Teoria Geral de Sistemas (TGS)
+Fase: 2ª, CHT = 45, CHP = 15, CHTT = 60
+
+Ementa:
+
+Histórico e rumos da TGS. Concepções cartesiana e mecanicista X enfoque sistêmico. Componentes, características, tipos e classificações de sistemas. Estados. Modelos. Conceituações. Processo decisório e formativo. Metodologia para desenvolvimento de sistemas de informação.
+
+Programa da Disciplina:
+
+1. Fundamentos da Teoria Geral dos Sistemas 
+1.1. Aspectos históricos e rumos da TGS 
+1.2. Concepções cartesianas e mecanicistas 
+1.3. O pensamento sistêmico 
+1.4. Conceito e tipos de sistemas 
+1.5. Princípios da teoria de sistemas. 
+ 
+2. Fundamentos de Administração de Empresas 
+2.1 Processo administrativo 
+2.2 Estrutura organizacional 
+2.3 Níveis decisórios 
+2.4 Funções empresariais básicas. 
+ 
+3. Fundamentos de Sistemas de Informação 
+3.1 Conceitos e tipos de sistemas de informação 
+3.2 Dimensões dos sistemas de informação: tecnológica, organizacional e gerencial 
+3.3 Abordagens de estudo dos sistemas de informação 
+3.4 Aspectos éticos e legais da atuação em sistemas de informação. 
+ 
+4. Sistemas de Informação Transacionais 
+4.1 Conceito e finalidade dos sistemas transacionais 
+4.2 Estudo dos principais sistemas transacionais das funções empresariais básicas 
+4.3 O conceito de integração e sua aplicação aos sistemas de informação transacionais: sistemas integrados de gestão empresarial. 
+Bibliografia:
+
+BÁSICA:
+
+BERTALLANFY, L. Teoria geral dos sistemas. Petrópolis: Vozes, 1975. 351 p.
+
+CHIAVENATO, I. Introdução à teoria geral da administração: edição compacta. Rio de Janeiro: Campus, 2000. Caps. 15, 16, 17.
+
+LAUDON, K. C.; LAUDON, J. P. Gerenciamento de sistemas de informação. 3. Ed. Rio de Janeiro: LTC, 2001. Caps. 1, 2, 3, 4
+
+LAUDON, K. C.; LAUDON, J. P. Sistemas de informação. Rio de Janeiro: LTC, 1999. Caps. 1, 2, 3, 9, 13
+
+MACIEL, J. Elementos de teoria geral dos sistemas. Petróplis: Vozes, 1974. 404 p.
+
+MARSHALL, C. Enterprise modelling wiht unl: designing successful software through business analisys. Reading-Mass: Addison-Wesley, 1999. 259 p.
+
+MORGAN, G. Imagens da Organização. São Paulo: Atlas, 1999. 380 p.
+
+O'BRIEN, James A. Sistemas de informação e as decisões gerenciais na era da internet. São Paulo: Saraiva, 2001.
+
+PIDD, M. Modelagem empresarial. Porto Alegre: Bookman, 1998.
+
+SENGE, P. A quinta disciplina: teoria e prática da organização de aprendizagem. São Paulo: Best-Seller, 1990. 352 p.
+
+SILVA, A. T. da. Administração básica. São Paulo: Atlas, 2000.
+
+COMPLEMETAR:
+
+ALBERTIN, Alberto Luiz. Administração de Informática: Funções e Fatores Críticos de Sucesso. São Paulo: Atlas, 1999.
+
+ARANTES, N. Sistemas de gestão empresarial: conceitos permanentes na administração de empresas válidas.2. ed. São Paulo: Atlas, 1998.
+
+DAVENPORT, Thomas H. Ecologia da Informação: porque só a tecnologia não basta para o sucesso na era da informação. São Paulo: Futura, 1998.
+
+DEMARCO, Tom. Análise Estruturada e Especificação de Sistemas. Rio de Janeiro: Campus, 1989.
+
+NORTON, PETER. Introdução à Informática. São Paulo: Makron Books, 1996.
+
+https://www.joinville.udesc.br/portal/ensino/graduacao/sistemas_informacao/disciplina.php?d=TGS&c=sistemas_informacao
+
+https://pt.slideshare.net/maxbonfa?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
